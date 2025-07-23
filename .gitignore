@@ -1,11 +1,1 @@
-# ignore node modules
-node_modules
-
-# ignore env
-.env
-
-# ignore lock file
-*-lock.json
-
-# ignroe destination folder
-dist
+/target
